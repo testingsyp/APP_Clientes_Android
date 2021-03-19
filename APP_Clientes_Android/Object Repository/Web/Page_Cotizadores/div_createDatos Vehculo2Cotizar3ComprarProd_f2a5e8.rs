@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_createDatos Vehculo2Cotizar3ComprarProd_f2a5e8</name>
+   <tag></tag>
+   <elementGuidId>47fb62e2-a290-4054-864b-a557b5655f4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.row</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-bxi-banco-stepper/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>createDatos Vehículo2Cotizar3ComprarProducto* Tipo de Vehículo helpSeleccione AUTOMÓVILES.  PICK UPS.  CAMIONES LIGEROS.  *Categoría helpSeleccione AUTOMÓVILES RESIDENTES  AUTOMÓVILES DESCONTINUADOS  AUTOMÓVILES REGULARIZADOS Código Postal *Estado helpSeleccione NUEVO LEÓN  *Municipio / Delegación helpSeleccione GUADALUPE Vehículo *Marca helpSeleccione ACURA  ALFA ROMEO  AUDI  BAIC  BMW  CBO  CHRYSLER  FAW  FERRARI  FIAT  FORD  FOTON  GENERAL MOTORS  GIANT  GMC  HONDA  HUMMER  HYUNDAI  INFINITI  JAC  JAGUAR  KIA  LAND ROVER  LOTUS  MASERATI  MAXUS  MAYBACH  MAZDA  MERCEDES BENZ  MG  MITSUBISHI  NISSAN  PEUGEOT  PIAGGIO  PORSCHE  RENAULT  ROVER  SAAB  SEAT  SMART  SUBARU  SUZUKI  TESLA  TOYOTA  VOLKSWAGEN  VOLVO  *Tipo helpSeleccione A1  A3  A4  A5  A6  A7  A8  CABRIOLET  E-TRON  Q2  Q3  Q5  Q7  Q8  RS3  RS4  RS5  RS6  RS7  R8  SQ5  S3  S4  S5  S6  S7  S8  TT  *Modelo helpSeleccione 1998  1997  *Descripción helpSeleccione CABRIOLET CONVERTIBLE CA CE PIEL CQ | AUT | 4 puertas | 6 cilindros | 4 pasajeros  CABRIOLET H.T. CA CE PIEL | AUT | 4 puertas | 6 cilindros | 4 pasajeros  *Uso helpSeleccione PARTICULAR  SOCIO CONDUCTOR APP  SOCIO CONDUCTOR U  UTILITARIO ComplementariosTIPO VALOR VEHICULOTIPO VALOR VEHICULOTIPO VALOR VEHICULOTIPO VALOR VEHICULOVALOR DE VEHICULO¿SU AUTO ARRASTRA REMOLQUE? SI NOSENCILLOTIPO DE REMOLQUESENCILLO P/MOTODESCRIPCION¿EQUIPO ESPECIAL A ASEGURAR? SI NODESCRIPCION DE EQUIPOVALOR DE EQUIPOMASCULINOINDIQUE EL SEXO DEL ASEGURADO REGRESAR  CONTINUAR Seguro de autosTipo de seguro seleccionado:  SEGURO BÁSICO ESTANDARIZADO  Vigencia:  ANUAL Seguro de autos</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-cotizadores[1]/app-bxi[@class=&quot;ng-star-inserted&quot;]/app-bxi-banco[@class=&quot;ng-star-inserted&quot;]/app-bxi-banco-stepper[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-bxi-banco-stepper/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -74,4 +74,10 @@
          <variableId>6a941e74-7017-41b8-8a73-484971c81e97</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>2e83e1a8-51f0-4b45-b76d-5e1ab4999bf3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Cerrar App</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>

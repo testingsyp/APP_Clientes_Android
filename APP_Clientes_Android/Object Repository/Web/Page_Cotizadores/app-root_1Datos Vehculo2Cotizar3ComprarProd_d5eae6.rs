@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>app-root_1Datos Vehculo2Cotizar3ComprarProd_d5eae6</name>
+   <tag></tag>
+   <elementGuidId>c29969bb-5fa9-4fe5-9e57-1977629ffcfe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>app-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>app-root</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-version</name>
+      <type>Main</type>
+      <value>7.2.15</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1Datos Vehículo2Cotizar3ComprarProducto* Tipo de Vehículo helpSeleccione AUTOMÓVILES.  PICK UPS.  CAMIONES LIGEROS.  *Categoría helpSeleccione AUTOMÓVILES RESIDENTES  AUTOMÓVILES DESCONTINUADOS  AUTOMÓVILES REGULARIZADOS Código Postal *Estado helpSeleccione AGUASCALIENTES  BAJA CALIFORNIA NORTE  BAJA CALIFORNIA SUR  CAMPECHE  CHIAPAS  CHIHUAHUA  CIUDAD DE MÉXICO  COAHUILA  COLIMA  DURANGO  ESTADO DE MEXICO  GUANAJUATO  GUERRERO  HIDALGO  JALISCO  MICHOACÁN  MORELOS  NAYARIT  NUEVO LEÓN  OAXACA  PUEBLA  QUERÉTARO  QUINTANA ROO  SAN LUIS POTOSÍ  SINALOA  SONORA  TABASCO  TAMAULIPAS  TLAXCALA  VERACRUZ  YUCATÁN  ZACATECAS  *Municipio / Delegación helpSeleccioneVehículo *Marca helpSeleccione ACURA  ALFA ROMEO  AUDI  BAIC  BMW  CBO  CHRYSLER  FAW  FERRARI  FIAT  FORD  FOTON  GENERAL MOTORS  GIANT  GMC  HONDA  HUMMER  HYUNDAI  INFINITI  JAC  JAGUAR  KIA  LAND ROVER  LOTUS  MASERATI  MAXUS  MAYBACH  MAZDA  MERCEDES BENZ  MG  MITSUBISHI  NISSAN  PEUGEOT  PIAGGIO  PORSCHE  RENAULT  ROVER  SAAB  SEAT  SMART  SUBARU  SUZUKI  TESLA  TOYOTA  VOLKSWAGEN  VOLVO  *Tipo helpSeleccione *Modelo helpSeleccione *Descripción helpSeleccione *Uso helpSeleccione PARTICULAR  SOCIO CONDUCTOR APP  SOCIO CONDUCTOR U  UTILITARIO ComplementariosTIPO VALOR VEHICULOTIPO VALOR VEHICULOTIPO VALOR VEHICULOTIPO VALOR VEHICULOVALOR DE VEHICULO¿SU AUTO ARRASTRA REMOLQUE? SI NOTIPO DE REMOLQUETIPO DE REMOLQUEDESCRIPCIONDESCRIPCION¿EQUIPO ESPECIAL A ASEGURAR? SI NODESCRIPCION DE EQUIPOVALOR DE EQUIPOINDIQUE EL SEXO DEL ASEGURADOINDIQUE EL SEXO DEL ASEGURADO CONTINUAR Seguro de autosTipo de seguro seleccionado:  Vigencia: Seguro de autos1Datos Vehículo2Cotizar3Comprar4Imprimir DocumentosREGRESARIMPRIMIRENVIARSIGUIENTEadd_circle_outline Datos del Vehículo *Placa help *No. de Serie help *No. Motor help *Servicio helpSeleccione NCI-Repuve helpBeneficiario Preferentehelpadd_circle_outline Datos del Contratante *RFC: help *Tipo de Persona: helpSeleccione *Fecha de Nacimiento: date_range CURP: help *Nombre: help *Apellido Paterno:  *Apellido Materno:  *Razón Social:  *Estado Civil: Seleccione *Sexo: Seleccione *Calle: help *Número:  *Código Postal:  *Estado: Seleccione *Municipio/Delegación: Seleccione *Colonia: s Seleccione Formas de contacto  Lada  Valor  Ext.  Borrar  Agregar add_circle_outline Datos del Asegurado¿ Desea que los datos del ASEGURADO, sean iguales a los del contratante ? *RFC: help *Tipo de Persona: helpSeleccione *Fecha de Nacimiento: date_range CURP: help *Nombre: help *Apellido Paterno:  *Apellido Materno:  *Razón Social:  *Estado Civil: Seleccione *Sexo: Seleccione *Calle: help *Número:  *Cúdigo Postal:  *Estado: Seleccione *Municipio/Delegación: Seleccione *Colonia: Seleccione Formas de contacto  Lada  Valor  Ext.  Borrar  Agregar add_circle_outline Datos del Conductor Habitual¿ Desea que los datos del CONDUCTOR, sean iguales a los del asegurado ? *Nombre:  *Apellido Paterno:  *Apellido Materno: add_circle_outline Datos de la Póliza *Fecha de Inicio (dd/mm/yyyy): date_rangeFecha de Inicio (dd/mm/yyyy):date_rangeadd_circle_outline Resumen de la Compraadd_circle_outline Conducto de Pago *Conducto de pago: helpSeleccioneTARJETA CRÉDITOLo que necesitasPara contratar ten a la mano:PromocionesAtributosREGRESARCOMPRARACERCA DE SEGUROS BANORTESeguros BanorteAtención a clientesTrabaja con nosotrosGlosarioMapa de SitioSEGUROS BANORTE TE INFORMAAviso de privacidadTérminos legalesEstados FinancierosBuró de Entidades FinancierasContacto CONDUSEFContacto UNESITIOS CORPORATIVOSGrupo Financiero BanortePensiones BanorteAfore XXI Banorte2016 Grupo Financiero Banorte. Derechos reservados.</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-root</value>
+   </webElementXpaths>
+</WebElementEntity>

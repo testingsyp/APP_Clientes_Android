@@ -55,5 +55,5 @@ Mobile.tap(findTestObject('Object Repository/Registro/android.widget.Button - Re
 
 Mobile.takeScreenshot()
 
-Mobile.closeApplication()
+Mobile.pressBack()
 

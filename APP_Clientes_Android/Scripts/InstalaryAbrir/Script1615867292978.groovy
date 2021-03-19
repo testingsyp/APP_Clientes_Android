@@ -23,7 +23,7 @@ Mobile.delay(5)
 
 Mobile.tap(findTestObject('InstalaryAbrir/android.widget.Button - Permitir'), 0)
 
-Mobile.tap(findTestObject('InstalaryAbrir/android.widget.Button - Allow'), 0)
+//Mobile.tap(findTestObject('InstalaryAbrir/android.widget.Button - Allow'), 0)
 
 Mobile.delay(3)
 

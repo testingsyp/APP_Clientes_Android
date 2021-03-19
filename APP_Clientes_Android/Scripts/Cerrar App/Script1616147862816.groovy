@@ -17,17 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.tap(findTestObject('Login/android.widget.Button - Iniciar Sesin'), 0)
 
-Mobile.delay(3)
-
-Mobile.takeScreenshot()
-
-Mobile.setText(findTestObject('Login/android.widget.EditText - usuario'), 'testing.syp@banorte.com', 0)
-
-Mobile.setText(findTestObject('Login/android.widget.EditText - contrasena'), 'Passw0rd', 0)
-
-Mobile.tap(findTestObject('Login/android.widget.Button - Ingresar'), 0)
+Mobile.delay(5)
 
 Mobile.takeScreenshot()
 
+Mobile.closeApplication()

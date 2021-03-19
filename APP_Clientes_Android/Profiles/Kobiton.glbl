@@ -6,7 +6,7 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description>Ubicacion del archivo .apk a instalar</description>
-      <initValue>'kobiton-store:168941'</initValue>
+      <initValue>'kobiton-store:173429'</initValue>
       <name>Ubicacion_APK</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
